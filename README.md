@@ -1,11 +1,28 @@
 # AI ML Projects
 
-Collection of machine learning projects built using Python and Jupyter Notebook.
+Collection of Machine Learning projects built using Python, Jupyter Notebook, and Scikit-learn.
 
-## Projects
+## Projects Included
 
 ### 1. CreditWise Loan System
-Supervised learning project for loan approval prediction.
+A supervised learning project developed to predict loan approval based on applicant and financial details.
 
 ### 2. SmartCart Segmentation System
-Unsupervised learning project using clustering and PCA.
+An unsupervised learning project that performs customer segmentation using clustering and PCA techniques.
+
+## Technologies Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+
+## Machine Learning Concepts Used
+- Supervised Learning
+- Unsupervised Learning
+- Classification
+- Clustering
+- PCA
+- Data Preprocessing
+- Data Visualization
