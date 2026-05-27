@@ -54,13 +54,3 @@ Convolutional Neural Network developed for image classification using PyTorch.
 - Data Visualization
 
 ---
-
-# Repository Structure
-
-AI-ML-Projects/
-│
-├── Supervised ML
-├── Unsupervised ML
-├── ANN Classifier
-├── ANN Regressor
-└── CNN Project
