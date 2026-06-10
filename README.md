@@ -1,6 +1,6 @@
-# AI ML Projects
+# AI/ML Projects
 
-Collection of Machine Learning and Deep Learning projects built using Python, Jupyter Notebook, PyTorch, and Scikit-learn.
+Collection of Machine Learning and Deep Learning projects built using Python, Jupyter Notebook, PyTorch, TensorFlow, and Scikit-learn.
 
 ---
 
@@ -24,8 +24,11 @@ Artificial Neural Network developed for classification problems.
 ### 4. ANN Regressor
 Artificial Neural Network developed for regression tasks and continuous value prediction.
 
-### 5. CNN Project
-Convolutional Neural Network developed for image classification using PyTorch.
+### 5. CNN Project (MNIST & CIFAR-10)
+Convolutional Neural Networks developed for image classification tasks using the MNIST and CIFAR-10 datasets.
+
+### 6. RNN Sentiment Analysis
+Recurrent Neural Network developed for sentiment classification of text data. Performed text preprocessing, tokenization, sequence modeling, and sentiment prediction on textual reviews.
 
 ---
 
@@ -37,20 +40,25 @@ Convolutional Neural Network developed for image classification using PyTorch.
 - Matplotlib
 - Scikit-learn
 - PyTorch
+- TensorFlow/Keras
 - Jupyter Notebook
 
 ---
 
-# Machine Learning Concepts Used
+# Machine Learning & Deep Learning Concepts Used
 
 - Supervised Learning
 - Unsupervised Learning
 - Classification
+- Regression
 - Clustering
 - PCA
-- Artificial Neural Networks (ANN)
-- Convolutional Neural Networks (CNN)
 - Data Preprocessing
 - Data Visualization
+- Artificial Neural Networks (ANN)
+- Convolutional Neural Networks (CNN)
+- Recurrent Neural Networks (RNN)
+- Image Classification
+- Natural Language Processing (NLP)
 
 ---
